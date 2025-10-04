@@ -1,0 +1,25 @@
+{
+  "name": "ai-app-cloud-test-web",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "14.2.6",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "@radix-ui/react-card": "1.0.4",
+    "@radix-ui/react-label": "2.0.2",
+    "tailwindcss": "3.4.10",
+    "classnames": "2.5.1"
+  },
+  "devDependencies": {
+    "autoprefixer": "10.4.20",
+    "postcss": "8.4.47",
+    "typescript": "5.5.4"
+  }
+}
