@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Orleans.Server" Version="8.1.0" />
+    <PackageReference Include="Microsoft.Orleans.Serialization" Version="8.1.0" />
+    <PackageReference Include="Microsoft.Orleans.Persistence.AdoNet" Version="8.1.0" />
+    <PackageReference Include="Microsoft.Orleans.Persistence.Memory" Version="8.1.0" />
+    <PackageReference Include="Microsoft.SemanticKernel" Version="1.23.0" />
+    <PackageReference Include="Microsoft.SemanticKernel.Connectors.OpenAI" Version="1.23.0" />
+    <PackageReference Include="Azure.Identity" Version="1.11.4" />
+  </ItemGroup>
+</Project>
